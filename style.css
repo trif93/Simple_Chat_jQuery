@@ -1,0 +1,31 @@
+body{
+	text-align: center;	
+}
+
+#head_chat{
+	background-color: #33cdc9;
+	font-size: 40px;
+}
+#login{
+	
+}
+#login_text{
+	font-size: 24px;
+}
+#login_button{
+	font-size: 24px;
+	background-color: #ddccdd;
+}
+#errorId{
+	color: red;
+	font-weight: bold;
+}
+#myMessage{
+	text-align: right;
+	background-color: #ddddff;
+}
+#chat{
+	height: 80%;
+	max-width: 50%;
+	align-content: center;
+}
